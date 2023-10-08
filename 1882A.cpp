@@ -1,6 +1,6 @@
 // "https://codeforces.com/contest/1882/problem/A"
 #include<bits/stdc++.h>
-// p
+
 using namespace std;
 
 int main(){
